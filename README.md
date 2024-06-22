@@ -1,5 +1,5 @@
 # Task Stacker - A Task Manager Application
-
+## Live Link -- [Task Stacker](https://task-stacker.netlify.app/)
 ## Overview
 Task Manager is a comprehensive application designed to facilitate task management for both users and managers. The application features two primary roles: User and Manager, each with distinct functionalities. The frontend is built using ReactJS, while the backend leverages NodeJS and AWS Lambda for a serverless architecture.
 
