@@ -33,3 +33,8 @@ Task Manager is a comprehensive application designed to facilitate task manageme
 
 ## Deployment
 The backend is deployed on AWS using the Serverless Framework. The frontend is built and served as a static website.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Note
+The backend and frontend code for this application is private to ensure security and maintain data integrity. Only the deployed application is visible to users.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
