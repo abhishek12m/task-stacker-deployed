@@ -32,7 +32,7 @@ Task Stacker is a comprehensive application designed to facilitate task manageme
 - **Serverless Framework**: The application is deployed using the Serverless CLI, simplifying the deployment of AWS Lambda functions.
 
 ## Deployment
-The backend is deployed on AWS using the Serverless Framework. The frontend is built and served as a static website.
+The backend is deployed on AWS using the Serverless Framework. The frontend is built and served as a static website. (recently not deployed because of cost)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Note
